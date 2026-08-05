@@ -54,19 +54,19 @@ Slotixy is a modern Telegram booking system designed for beauty salons and servi
 
 # Architecture
 
+config/
+
 handlers/
 
 database/
 
-services/
-
-middlewares/
-
-filters/
-
 keyboards/
 
-utils/
+main/
+
+nails/
+
+requirements/
 
 ---
 
