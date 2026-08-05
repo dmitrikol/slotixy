@@ -98,7 +98,7 @@ utils/
 
 # 📸 Интерфейс
 
-<img src="assets/booking.png"  width="640" >
+<img src="assets/booking.png"  width="740" >
 
 ---
 
