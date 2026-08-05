@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="180">
+<img src="assets/banner.png" width="640">
 
 # Slotixy
 
