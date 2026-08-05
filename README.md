@@ -98,27 +98,7 @@ utils/
 
 # 📸 Интерфейс
 
-### Главное меню
-
-![Main](assets/booking.png)
-
----
-
-### Админ-панель
-
-![Admin](assets/admin_panel.png)
-
----
-
-### Статистика
-
-![Statistics](assets/statistics.png)
-
----
-
-### Календарь
-
-![Calendar](assets/calendar.png)
+<img src="assets/preview.png"  width="640" >
 
 ---
 
