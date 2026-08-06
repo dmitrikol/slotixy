@@ -255,7 +255,7 @@ SQLite / PostgreSQL
 
 Если вас заинтересовал проект или вы хотите автоматизировать свой бизнес:
 
-**Telegram:** @ВАШ_НИК
+**Telegram:** @rodimastg
 
 **GitHub:** https://github.com/dmitrikol
 
